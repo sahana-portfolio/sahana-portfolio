@@ -40,7 +40,7 @@
 
 ## 📫 Get in Touch  
 📧 *Email:* sahanal2024@gmail.com 
-💼 *LinkedIn:* (www.linkedin.com/in/sahana-l2024)  
+💼 *LinkedIn:* (https://www.linkedin.com/in/sahana-l2024/)  
 📂 *GitHub Portfolio:* (https://github.com/sahana-portfolio)
 
 ---
